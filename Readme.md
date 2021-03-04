@@ -5,6 +5,12 @@
  2. Enmanuel Herrera
  3. Moises Santiago
 
+
+ # Introduccion
+
+ En este siguente trabajo veremos la importancia de usar Git y Github para trabajos colaborativos. Los códigos a seguir para poder dar incapie a los trabajos en conjunto.
+ Además de conocer un poco más de su estructura y brindar un buen aprendizaje sobre está herramienta.
+
  # Temas
 
 **El Uso de Git y GitHub para trabajos colaborativos.**
